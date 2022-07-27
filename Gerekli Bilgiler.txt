@@ -1,0 +1,16 @@
+Programın çalışması için doğru open-cv versiyonu yüklü olması gerekir
+
+eski --
+	opencv-python                   4.5.5.64
+	opencv-python-headless          4.5.5.64
+
+yeni --
+	pip install opencv-python==4.3.0.38
+
+
+
+Yüklediğiniz resimin bulunduğu yerde türkçe karakter olması
+programın resmi düzgün okuyamamasına ve hataya sebep olabilir
+
+Resim seçerek kullanmak için interface.py dosyasını,
+plaka tanımlama sistemini incelemek için imagerec.py dosyasını açabilirsiniz
